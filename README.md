@@ -3,11 +3,10 @@
 
 ## Task 1:
 
-4. On 2024-08-04 between 06.00 and 12.00 there are some inconsistencies, where imbalance was not decreasing after the activation action. Might be because there was not enough activation.
-   
- 	Something similar can be seen on 2024-08-10 between 09.00 and 17.00, and on 2024-08-11 , between 09.00 and 15.00, but this time there was almost no activation at all. It activated too late.
-	
-   Overall The upwards activation has been quite precise.
+### 4.
+	On 2024-08-04 between 06.00 and 12.00 there are some inconsistencies, where imbalance was not decreasing after the activation action. Might be because there was not enough activation.
+	Something similar can be seen on 2024-08-10 between 09.00 and 17.00, and on 2024-08-11 , between 09.00 and 15.00, but this time there was almost no activation at all. It activated too late.	
+	Overall The upwards activation has been quite precise.
 
 ## Task 2:
 
